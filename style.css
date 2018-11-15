@@ -1,0 +1,9 @@
+h1 {
+	font-family: 'Abril Fatface', cursive;
+}
+
+body {
+   background-image: url("sky.gif");
+   background-color: #cccccc;
+background-size: 100%;
+}
